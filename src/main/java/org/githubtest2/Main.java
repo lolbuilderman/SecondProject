@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         //More advanced project
         System.out.println("New functionality");
+        System.out.println("Even another functionality");
     }
 }
